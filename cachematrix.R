@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 
-## functions find the inverse of the matrix you create
+## The functions find the inverse of the matrix you create
 
 ## Write a short comment describing this function
 
